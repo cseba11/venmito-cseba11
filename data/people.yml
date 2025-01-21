@@ -1,0 +1,2368 @@
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Montreal, Canada
+  email: Jamie.Bright@example.com
+  id: 1
+  name: Jamie Bright
+  phone: 533-849-3913
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Yusra.Fletcher@example.com
+  id: 3
+  name: Yusra Fletcher
+  phone: 385-702-8874
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Paris, France
+  email: Beatrix.Everett@example.com
+  id: 5
+  name: Beatrix Everett
+  phone: 194-640-2758
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Asa.Vazquez@example.com
+  id: 9
+  name: Asa Vazquez
+  phone: 504-421-4485
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Carmen.Burton@example.com
+  id: 19
+  name: Carmen Burton
+  phone: 527-368-7429
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Donald.Stone@example.com
+  id: 20
+  name: Donald Stone
+  phone: 730-260-4630
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Isabelle.Lopez@example.com
+  id: 24
+  name: Isabelle Lopez
+  phone: 981-878-3234
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Julius.Garrett@example.com
+  id: 26
+  name: Julius Garrett
+  phone: 866-664-7969
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Dafydd.Preston@example.com
+  id: 29
+  name: Dafydd Preston
+  phone: 368-987-3267
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Montreal, Canada
+  email: Stephanie.Rice@example.com
+  id: 30
+  name: Stephanie Rice
+  phone: 830-901-9870
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Bradley.Butler@example.com
+  id: 31
+  name: Bradley Butler
+  phone: 937-172-2269
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Louise.Daniel@example.com
+  id: 33
+  name: Louise Daniel
+  phone: 917-348-4728
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Livia.Howe@example.com
+  id: 34
+  name: Livia Howe
+  phone: 868-828-4315
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Lili.Schroeder@example.com
+  id: 37
+  name: Lili Schroeder
+  phone: 640-348-2128
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Jeremiah.Martin@example.com
+  id: 38
+  name: Jeremiah Martin
+  phone: 277-350-5557
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Keyaan.Holland@example.com
+  id: 39
+  name: Keyaan Holland
+  phone: 845-797-2979
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Cody.Riley@example.com
+  id: 41
+  name: Cody Riley
+  phone: 872-906-9681
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Tomas.Griffith@example.com
+  id: 42
+  name: Tomas Griffith
+  phone: 492-337-4468
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Amaan.Rangel@example.com
+  id: 52
+  name: Amaan Rangel
+  phone: 837-435-2302
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Billie.Price@example.com
+  id: 57
+  name: Billie Price
+  phone: 917-866-8131
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Phoebe.Weiss@example.com
+  id: 59
+  name: Phoebe Weiss
+  phone: 299-560-9666
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Aled.Silva@example.com
+  id: 65
+  name: Aled Silva
+  phone: 612-360-5367
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Saif.Green@example.com
+  id: 68
+  name: Saif Green
+  phone: 978-659-7286
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Valerie.Oneal@example.com
+  id: 70
+  name: Valerie Oneal
+  phone: 651-335-6190
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Ilyas.Dunlap@example.com
+  id: 71
+  name: Ilyas Dunlap
+  phone: 491-981-1293
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Kara.Stewart@example.com
+  id: 73
+  name: Kara Stewart
+  phone: 794-314-2500
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Myrtle.Doyle@example.com
+  id: 74
+  name: Myrtle Doyle
+  phone: 525-796-7991
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Angela.Mcmillan@example.com
+  id: 78
+  name: Angela Mcmillan
+  phone: 868-463-1850
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Amir.Clark@example.com
+  id: 91
+  name: Amir Clark
+  phone: 924-287-4068
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Usman.Swanson@example.com
+  id: 100
+  name: Usman Swanson
+  phone: 431-103-9132
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Caspar.Hudson@example.com
+  id: 103
+  name: Caspar Hudson
+  phone: 830-584-4874
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Mohsin.Tucker@example.com
+  id: 108
+  name: Mohsin Tucker
+  phone: 174-389-8757
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Laurie.Melendez@example.com
+  id: 114
+  name: Laurie Melendez
+  phone: 488-382-1416
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Tanya.Watson@example.com
+  id: 115
+  name: Tanya Watson
+  phone: 432-515-4933
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Priya.Moore@example.com
+  id: 117
+  name: Priya Moore
+  phone: 455-692-4736
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Arron.Peck@example.com
+  id: 119
+  name: Arron Peck
+  phone: 226-392-7970
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Justin.Rowland@example.com
+  id: 120
+  name: Justin Rowland
+  phone: 665-725-2354
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Jasper.Brandt@example.com
+  id: 121
+  name: Jasper Brandt
+  phone: 527-756-7352
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Teresa.Mccarty@example.com
+  id: 122
+  name: Teresa Mccarty
+  phone: 223-114-4003
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Finnian.Fisher@example.com
+  id: 123
+  name: Finnian Fisher
+  phone: 382-879-9946
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Nora.Ball@example.com
+  id: 125
+  name: Nora Ball
+  phone: 921-528-9551
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Zoya.Giles@example.com
+  id: 127
+  name: Zoya Giles
+  phone: 301-750-7631
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Alejandro.Duncan@example.com
+  id: 129
+  name: Alejandro Duncan
+  phone: 487-150-9471
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Zohaib.Hartman@example.com
+  id: 130
+  name: Zohaib Hartman
+  phone: 928-400-6426
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Bertie.Ward@example.com
+  id: 135
+  name: Bertie Ward
+  phone: 971-922-8663
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Kamran.Wilcox@example.com
+  id: 139
+  name: Kamran Wilcox
+  phone: 476-365-7838
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Adriana.Stafford@example.com
+  id: 141
+  name: Adriana Stafford
+  phone: 473-741-6496
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Everly.Fuentes@example.com
+  id: 142
+  name: Everly Fuentes
+  phone: 398-369-8927
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Eleanor.Mcintosh@example.com
+  id: 147
+  name: Eleanor Mcintosh
+  phone: 153-538-3431
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Abdirahman.Mullen@example.com
+  id: 149
+  name: Abdirahman Mullen
+  phone: 669-442-8257
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Matteo.Moon@example.com
+  id: 152
+  name: Matteo Moon
+  phone: 830-546-5378
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Blaine.Boyer@example.com
+  id: 153
+  name: Blaine Boyer
+  phone: 411-997-1636
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Alia.Brooks@example.com
+  id: 156
+  name: Alia Brooks
+  phone: 327-292-8469
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Kurtis.Marks@example.com
+  id: 167
+  name: Kurtis Marks
+  phone: 690-396-3965
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Enya.Hernandez@example.com
+  id: 173
+  name: Enya Hernandez
+  phone: 406-397-1498
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Melvin.Flores@example.com
+  id: 176
+  name: Melvin Flores
+  phone: 708-692-8746
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Dhruv.Villarreal@example.com
+  id: 180
+  name: Dhruv Villarreal
+  phone: 931-559-3083
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Ridwan.Houston@example.com
+  id: 188
+  name: Ridwan Houston
+  phone: 530-308-5425
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Fynn.Graham@example.com
+  id: 194
+  name: Fynn Graham
+  phone: 763-842-3292
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Zakir.Russell@example.com
+  id: 198
+  name: Zakir Russell
+  phone: 599-588-9264
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Asa.Haines@example.com
+  id: 199
+  name: Asa Haines
+  phone: 327-464-5734
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Eesa.Buchanan@example.com
+  id: 200
+  name: Eesa Buchanan
+  phone: 533-397-5445
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Lili.Patel@example.com
+  id: 203
+  name: Lili Patel
+  phone: 823-509-3052
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Philippa.Webster@example.com
+  id: 204
+  name: Philippa Webster
+  phone: 407-892-7705
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Jessie.Greer@example.com
+  id: 208
+  name: Jessie Greer
+  phone: 950-317-1709
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Kyran.Wyatt@example.com
+  id: 213
+  name: Kyran Wyatt
+  phone: 778-841-9881
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Eugene.Taylor@example.com
+  id: 214
+  name: Eugene Taylor
+  phone: 712-926-3402
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Tony.Shepard@example.com
+  id: 218
+  name: Tony Shepard
+  phone: 416-772-8288
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Sinead.Horne@example.com
+  id: 219
+  name: Sinead Horne
+  phone: 340-355-9098
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Paris, France
+  email: Sonia.Lowe@example.com
+  id: 222
+  name: Sonia Lowe
+  phone: 418-550-4001
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Morgan.Hardy@example.com
+  id: 226
+  name: Morgan Hardy
+  phone: 974-761-7628
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Ned.Rowland@example.com
+  id: 228
+  name: Ned Rowland
+  phone: 400-103-9062
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Kate.Cline@example.com
+  id: 229
+  name: Kate Cline
+  phone: 927-741-2027
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Darcy.Wall@example.com
+  id: 231
+  name: Darcy Wall
+  phone: 109-398-3560
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Aisha.Winters@example.com
+  id: 232
+  name: Aisha Winters
+  phone: 280-831-1664
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Edward.Ayala@example.com
+  id: 239
+  name: Edward Ayala
+  phone: 416-337-3343
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Brogan.Fitzgerald@example.com
+  id: 243
+  name: Brogan Fitzgerald
+  phone: 955-732-8107
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Taylor.Ramos@example.com
+  id: 244
+  name: Taylor Ramos
+  phone: 833-282-1248
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Elsie.Cuevas@example.com
+  id: 245
+  name: Elsie Cuevas
+  phone: 186-536-6820
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Zara.Washington@example.com
+  id: 246
+  name: Zara Washington
+  phone: 679-367-1926
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Bethan.Franco@example.com
+  id: 248
+  name: Bethan Franco
+  phone: 317-895-5803
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Oskar.Mccarty@example.com
+  id: 253
+  name: Oskar Mccarty
+  phone: 582-269-7396
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Darcey.Robles@example.com
+  id: 260
+  name: Darcey Robles
+  phone: 790-759-5249
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Dulcie.Melendez@example.com
+  id: 261
+  name: Dulcie Melendez
+  phone: 659-843-5422
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Everly.Cortez@example.com
+  id: 262
+  name: Everly Cortez
+  phone: 954-995-1806
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Tommy.Farmer@example.com
+  id: 263
+  name: Tommy Farmer
+  phone: 999-431-4584
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Maximillian.Atkins@example.com
+  id: 264
+  name: Maximillian Atkins
+  phone: 421-834-8740
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Yusuf.Salazar@example.com
+  id: 269
+  name: Yusuf Salazar
+  phone: 311-351-7403
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Princess.Schneider@example.com
+  id: 271
+  name: Princess Schneider
+  phone: 683-604-6287
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Bronte.Riley@example.com
+  id: 274
+  name: Bronte Riley
+  phone: 786-291-8203
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Fay.Lucas@example.com
+  id: 277
+  name: Fay Lucas
+  phone: 436-818-1915
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Rosa.Stone@example.com
+  id: 281
+  name: Rosa Stone
+  phone: 922-216-4141
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Lorna.Levy@example.com
+  id: 285
+  name: Lorna Levy
+  phone: 809-114-1988
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Jan.Daniels@example.com
+  id: 287
+  name: Jan Daniels
+  phone: 305-449-8274
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Brenda.Ingram@example.com
+  id: 290
+  name: Brenda Ingram
+  phone: 919-358-6885
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Anya.Bray@example.com
+  id: 292
+  name: Anya Bray
+  phone: 396-900-5179
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Montreal, Canada
+  email: Nikita.Marquez@example.com
+  id: 303
+  name: Nikita Marquez
+  phone: 492-815-1793
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Barnaby.Payne@example.com
+  id: 309
+  name: Barnaby Payne
+  phone: 140-296-7511
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Bessie.Cuevas@example.com
+  id: 317
+  name: Bessie Cuevas
+  phone: 629-379-6872
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Mario.Luna@example.com
+  id: 318
+  name: Mario Luna
+  phone: 547-624-3479
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Seren.Rocha@example.com
+  id: 323
+  name: Seren Rocha
+  phone: 880-236-4632
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Thea.Hamilton@example.com
+  id: 324
+  name: Thea Hamilton
+  phone: 868-547-6826
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Matilda.Griffin@example.com
+  id: 325
+  name: Matilda Griffin
+  phone: 176-758-4552
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Oliver.Sanford@example.com
+  id: 327
+  name: Oliver Sanford
+  phone: 628-646-1375
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Abubakar.Shaffer@example.com
+  id: 330
+  name: Abubakar Shaffer
+  phone: 404-849-9394
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Elisabeth.Tran@example.com
+  id: 334
+  name: Elisabeth Tran
+  phone: 363-441-2226
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Katrina.Foster@example.com
+  id: 336
+  name: Katrina Foster
+  phone: 497-544-5065
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Patricia.John@example.com
+  id: 338
+  name: Patricia John
+  phone: 338-345-6084
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Sahil.Lyons@example.com
+  id: 339
+  name: Sahil Lyons
+  phone: 494-702-9881
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Randy.Edwards@example.com
+  id: 344
+  name: Randy Edwards
+  phone: 935-107-2953
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Caiden.Kaufman@example.com
+  id: 346
+  name: Caiden Kaufman
+  phone: 805-349-3127
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Jennie.Monroe@example.com
+  id: 353
+  name: Jennie Monroe
+  phone: 613-385-2077
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Dawid.Lozano@example.com
+  id: 355
+  name: Dawid Lozano
+  phone: 410-788-9917
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Romeo.Martin@example.com
+  id: 356
+  name: Romeo Martin
+  phone: 834-460-4855
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Sadie.Hammond@example.com
+  id: 358
+  name: Sadie Hammond
+  phone: 799-609-4421
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Judy.Clayton@example.com
+  id: 360
+  name: Judy Clayton
+  phone: 757-533-4647
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Martina.Moran@example.com
+  id: 365
+  name: Martina Moran
+  phone: 641-323-9929
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Reggie.Strong@example.com
+  id: 369
+  name: Reggie Strong
+  phone: 459-645-8476
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Leanne.Cordova@example.com
+  id: 379
+  name: Leanne Cordova
+  phone: 514-225-7453
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: James.Warner@example.com
+  id: 380
+  name: James Warner
+  phone: 839-312-5829
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Zachery.Snow@example.com
+  id: 382
+  name: Zachery Snow
+  phone: 354-295-2894
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Owen.Michael@example.com
+  id: 383
+  name: Owen Michael
+  phone: 178-910-8863
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Levi.Hoffman@example.com
+  id: 389
+  name: Levi Hoffman
+  phone: 442-352-9243
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Camilla.Wells@example.com
+  id: 390
+  name: Camilla Wells
+  phone: 149-482-9546
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Kyle.Joseph@example.com
+  id: 392
+  name: Kyle Joseph
+  phone: 499-600-6164
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Timothy.Jacobs@example.com
+  id: 393
+  name: Timothy Jacobs
+  phone: 105-356-5519
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Penny.Hanson@example.com
+  id: 396
+  name: Penny Hanson
+  phone: 853-297-6593
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Myrtle.Lewis@example.com
+  id: 398
+  name: Myrtle Lewis
+  phone: 727-289-2785
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Tariq.Holman@example.com
+  id: 403
+  name: Tariq Holman
+  phone: 734-647-8275
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Cecily.Blaese@example.com
+  id: 405
+  name: Cecily Blaese
+  phone: 234-446-2115
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Gideon.Perez@example.com
+  id: 406
+  name: Gideon Perez
+  phone: 135-944-5781
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Trinity.Mora@example.com
+  id: 407
+  name: Trinity Mora
+  phone: 406-645-2610
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Candice.Hooper@example.com
+  id: 411
+  name: Candice Hooper
+  phone: 382-506-1338
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Omar.Clements@example.com
+  id: 412
+  name: Omar Clements
+  phone: 998-234-1057
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Pablo.Benton@example.com
+  id: 420
+  name: Pablo Benton
+  phone: 918-474-3062
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Bill.Chen@example.com
+  id: 426
+  name: Bill Chen
+  phone: 264-895-1912
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Lola.Vaughan@example.com
+  id: 427
+  name: Lola Vaughan
+  phone: 722-400-6707
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Abi.Montgomery@example.com
+  id: 428
+  name: Abi Montgomery
+  phone: 904-933-1987
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Mike.Hurst@example.com
+  id: 429
+  name: Mike Hurst
+  phone: 488-247-6930
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Angelo.Manning@example.com
+  id: 433
+  name: Angelo Manning
+  phone: 182-351-6749
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Leona.Daugherty@example.com
+  id: 439
+  name: Leona Daugherty
+  phone: 815-288-7354
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Lenny.Hardy@example.com
+  id: 442
+  name: Lenny Hardy
+  phone: 618-571-1851
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Julius.Marquez@example.com
+  id: 446
+  name: Julius Marquez
+  phone: 189-235-8167
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Amna.Garner@example.com
+  id: 448
+  name: Amna Garner
+  phone: 157-518-8037
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Raja.Hull@example.com
+  id: 449
+  name: Raja Hull
+  phone: 209-644-4005
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Rio.Suarez@example.com
+  id: 450
+  name: Rio Suarez
+  phone: 304-182-8487
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Larry.Clay@example.com
+  id: 456
+  name: Larry Clay
+  phone: 151-494-2927
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Karen.Robles@example.com
+  id: 465
+  name: Karen Robles
+  phone: 144-367-7871
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Charis.Cotton@example.com
+  id: 466
+  name: Charis Cotton
+  phone: 598-771-1224
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Cassie.Gaines@example.com
+  id: 468
+  name: Cassie Gaines
+  phone: 496-692-2413
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Kyla.Brennan@example.com
+  id: 470
+  name: Kyla Brennan
+  phone: 440-863-6538
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Hayden.Lucas@example.com
+  id: 473
+  name: Hayden Lucas
+  phone: 527-308-6637
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Willard.Gray@example.com
+  id: 474
+  name: Willard Gray
+  phone: 894-914-4304
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Sophie.Lindsey@example.com
+  id: 475
+  name: Sophie Lindsey
+  phone: 392-864-7558
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Sabrina.Becker@example.com
+  id: 476
+  name: Sabrina Becker
+  phone: 895-364-8107
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Dillon.Cisneros@example.com
+  id: 477
+  name: Dillon Cisneros
+  phone: 304-384-6230
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Terence.Rosales@example.com
+  id: 479
+  name: Terence Rosales
+  phone: 298-641-6696
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Ahmad.Patrick@example.com
+  id: 482
+  name: Ahmad Patrick
+  phone: 875-486-1626
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Christine.Davenport@example.com
+  id: 483
+  name: Christine Davenport
+  phone: 168-853-2168
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Lowri.Brady@example.com
+  id: 484
+  name: Lowri Brady
+  phone: 116-274-4785
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Ashley.Cain@example.com
+  id: 485
+  name: Ashley Cain
+  phone: 679-244-6655
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Jenson.Carlson@example.com
+  id: 488
+  name: Jenson Carlson
+  phone: 282-249-3068
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Micheal.Maldonado@example.com
+  id: 496
+  name: Micheal Maldonado
+  phone: 895-850-8289
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Alexandra.Young@example.com
+  id: 500
+  name: Alexandra Young
+  phone: 425-414-7823
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Imran.Page@example.com
+  id: 502
+  name: Imran Page
+  phone: 203-209-8114
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Jim.Moses@example.com
+  id: 503
+  name: Jim Moses
+  phone: 560-446-1279
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Bessie.Conley@example.com
+  id: 505
+  name: Bessie Conley
+  phone: 128-912-7282
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Ameera.Kirby@example.com
+  id: 523
+  name: Ameera Kirby
+  phone: 611-776-9890
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Orla.Monroe@example.com
+  id: 536
+  name: Orla Monroe
+  phone: 200-722-3778
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Bronwyn.Hanna@example.com
+  id: 537
+  name: Bronwyn Hanna
+  phone: 763-469-4049
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Ruth.Stone@example.com
+  id: 539
+  name: Ruth Stone
+  phone: 429-930-9178
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Elysia.Schaefer@example.com
+  id: 541
+  name: Elysia Schaefer
+  phone: 264-321-9679
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Esme.Krueger@example.com
+  id: 543
+  name: Esme Krueger
+  phone: 173-138-2227
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Prince.Sharp@example.com
+  id: 550
+  name: Prince Sharp
+  phone: 886-278-8764
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Donovan.Evans@example.com
+  id: 551
+  name: Donovan Evans
+  phone: 729-134-2962
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Paris, France
+  email: Daniel.Reid@example.com
+  id: 552
+  name: Daniel Reid
+  phone: 753-936-1634
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Cecilia.Edwards@example.com
+  id: 559
+  name: Cecilia Edwards
+  phone: 941-963-8256
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Montreal, Canada
+  email: Macy.King@example.com
+  id: 567
+  name: Macy King
+  phone: 475-826-7209
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Kevin.Sherman@example.com
+  id: 574
+  name: Kevin Sherman
+  phone: 185-617-6120
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Demi.Callahan@example.com
+  id: 578
+  name: Demi Callahan
+  phone: 713-176-8275
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Sufyaan.Castillo@example.com
+  id: 579
+  name: Sufyaan Castillo
+  phone: 412-479-8766
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Aayan.Donovan@example.com
+  id: 580
+  name: Aayan Donovan
+  phone: 476-401-9860
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Sufyan.Guzman@example.com
+  id: 585
+  name: Sufyan Guzman
+  phone: 125-583-6823
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Casey.Finley@example.com
+  id: 586
+  name: Casey Finley
+  phone: 306-893-4689
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Annalise.Stephens@example.com
+  id: 591
+  name: Annalise Stephens
+  phone: 853-224-1381
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Jamil.Shepherd@example.com
+  id: 592
+  name: Jamil Shepherd
+  phone: 298-276-5058
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Danyal.Lang@example.com
+  id: 593
+  name: Danyal Lang
+  phone: 629-875-4423
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Barry.Reilly@example.com
+  id: 594
+  name: Barry Reilly
+  phone: 117-863-9669
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Astrid.Delgado@example.com
+  id: 599
+  name: Astrid Delgado
+  phone: 641-317-3741
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Bertha.Walsh@example.com
+  id: 606
+  name: Bertha Walsh
+  phone: 129-506-2067
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Rishi.Barron@example.com
+  id: 608
+  name: Rishi Barron
+  phone: 331-128-4346
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Paris, France
+  email: Taylor.Leon@example.com
+  id: 609
+  name: Taylor Leon
+  phone: 857-418-9149
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Montreal, Canada
+  email: Rabia.Parsons@example.com
+  id: 612
+  name: Rabia Parsons
+  phone: 244-470-8381
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Larissa.Perez@example.com
+  id: 613
+  name: Larissa Perez
+  phone: 742-168-6071
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Ibrahim.Robertson@example.com
+  id: 614
+  name: Ibrahim Robertson
+  phone: 603-299-3596
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Neo.Lara@example.com
+  id: 620
+  name: Neo Lara
+  phone: 276-319-4768
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Diane.Kelly@example.com
+  id: 625
+  name: Diane Kelly
+  phone: 219-449-5089
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Nancy.Stuart@example.com
+  id: 628
+  name: Nancy Stuart
+  phone: 301-686-1705
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Hazel.Yoder@example.com
+  id: 635
+  name: Hazel Yoder
+  phone: 839-203-3903
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Amber.Gonzalez@example.com
+  id: 636
+  name: Amber Gonzalez
+  phone: 884-628-1984
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Kacie.Morse@example.com
+  id: 641
+  name: Kacie Morse
+  phone: 108-917-7237
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Seth.Walter@example.com
+  id: 642
+  name: Seth Walter
+  phone: 988-932-7592
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Lauren.Ashley@example.com
+  id: 643
+  name: Lauren Ashley
+  phone: 564-133-8260
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Gary.Richards@example.com
+  id: 645
+  name: Gary Richards
+  phone: 970-902-7934
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Zaynah.Wong@example.com
+  id: 649
+  name: Zaynah Wong
+  phone: 597-835-8978
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Cormac.Greer@example.com
+  id: 650
+  name: Cormac Greer
+  phone: 722-120-7628
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Vera.Walker@example.com
+  id: 661
+  name: Vera Walker
+  phone: 516-811-2158
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Zara.Oconnell@example.com
+  id: 664
+  name: Zara Oconnell
+  phone: 543-537-6044
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Abdirahman.Marsh@example.com
+  id: 669
+  name: Abdirahman Marsh
+  phone: 653-601-4374
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Lucas.Burke@example.com
+  id: 681
+  name: Lucas Burke
+  phone: 321-512-2703
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Thea.Suarez@example.com
+  id: 687
+  name: Thea Suarez
+  phone: 647-211-7337
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Kayla.Jones@example.com
+  id: 689
+  name: Kayla Jones
+  phone: 579-756-1305
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Brett.Landry@example.com
+  id: 691
+  name: Brett Landry
+  phone: 213-171-7560
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Xander.Levine@example.com
+  id: 695
+  name: Xander Levine
+  phone: 790-969-1579
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Wade.Hancock@example.com
+  id: 703
+  name: Wade Hancock
+  phone: 245-455-9119
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Nicholas.Thomson@example.com
+  id: 704
+  name: Nicholas Thomson
+  phone: 936-615-3052
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Muhammad.Henry@example.com
+  id: 707
+  name: Muhammad Henry
+  phone: 298-612-6847
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Bronte.Mendoza@example.com
+  id: 712
+  name: Bronte Mendoza
+  phone: 323-783-6615
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Isla.Barber@example.com
+  id: 714
+  name: Isla Barber
+  phone: 860-505-2643
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Oliver.Garner@example.com
+  id: 715
+  name: Oliver Garner
+  phone: 937-976-2511
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Barnaby.Wagner@example.com
+  id: 716
+  name: Barnaby Wagner
+  phone: 974-500-4168
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Hannah.Roman@example.com
+  id: 721
+  name: Hannah Roman
+  phone: 331-750-4621
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Yash.Mcleod@example.com
+  id: 723
+  name: Yash Mcleod
+  phone: 270-525-3291
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Mae.Barry@example.com
+  id: 724
+  name: Mae Barry
+  phone: 501-577-5306
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Aya.Weeks@example.com
+  id: 726
+  name: Aya Weeks
+  phone: 466-888-7144
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Dawn.Cisneros@example.com
+  id: 727
+  name: Dawn Cisneros
+  phone: 375-337-2745
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Abigail.Medina@example.com
+  id: 729
+  name: Abigail Medina
+  phone: 857-602-1192
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Rhodri.Haley@example.com
+  id: 730
+  name: Rhodri Haley
+  phone: 574-869-4715
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Chantelle.Holt@example.com
+  id: 736
+  name: Chantelle Holt
+  phone: 256-585-1002
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Gertrude.Mcgrath@example.com
+  id: 738
+  name: Gertrude Mcgrath
+  phone: 364-150-1035
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Millicent.Solomon@example.com
+  id: 741
+  name: Millicent Solomon
+  phone: 597-434-8108
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Adem.Kerr@example.com
+  id: 754
+  name: Adem Kerr
+  phone: 219-873-6077
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Bill.Andersen@example.com
+  id: 757
+  name: Bill Andersen
+  phone: 962-770-1270
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Martina.Steele@example.com
+  id: 759
+  name: Martina Steele
+  phone: 349-841-5113
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Huda.Crane@example.com
+  id: 763
+  name: Huda Crane
+  phone: 243-321-6881
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Sasha.Berger@example.com
+  id: 766
+  name: Sasha Berger
+  phone: 492-295-4570
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Caleb.Obrien@example.com
+  id: 768
+  name: Caleb Obrien
+  phone: 223-387-1014
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Krish.Hutchinson@example.com
+  id: 779
+  name: Krish Hutchinson
+  phone: 405-788-7051
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Paula.West@example.com
+  id: 782
+  name: Paula West
+  phone: 345-217-2266
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Tiana.Decker@example.com
+  id: 784
+  name: Tiana Decker
+  phone: 255-136-3687
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Kara.Shelton@example.com
+  id: 785
+  name: Kara Shelton
+  phone: 837-651-6819
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Ted.Eaton@example.com
+  id: 788
+  name: Ted Eaton
+  phone: 534-915-3617
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Aoife.Davidson@example.com
+  id: 791
+  name: Aoife Davidson
+  phone: 628-333-9139
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Lilian.Strickland@example.com
+  id: 797
+  name: Lilian Strickland
+  phone: 925-438-1993
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Brenda.Deleon@example.com
+  id: 798
+  name: Brenda Deleon
+  phone: 997-981-2043
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Olivier.Thornton@example.com
+  id: 800
+  name: Olivier Thornton
+  phone: 401-494-6634
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Amin.Petersen@example.com
+  id: 804
+  name: Amin Petersen
+  phone: 680-177-1233
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Miriam.Stuart@example.com
+  id: 806
+  name: Miriam Stuart
+  phone: 846-333-2100
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Abdullahi.Carson@example.com
+  id: 809
+  name: Abdullahi Carson
+  phone: 632-547-8327
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Albie.Larson@example.com
+  id: 816
+  name: Albie Larson
+  phone: 252-910-3152
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Alexander.Reid@example.com
+  id: 818
+  name: Alexander Reid
+  phone: 842-314-3728
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Riley.Fletcher@example.com
+  id: 821
+  name: Riley Fletcher
+  phone: 522-750-5985
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Chiara.Ho@example.com
+  id: 825
+  name: Chiara Ho
+  phone: 279-331-5254
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Nancy.Blair@example.com
+  id: 842
+  name: Nancy Blair
+  phone: 434-174-7916
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Paris, France
+  email: Tiffany.Griffith@example.com
+  id: 843
+  name: Tiffany Griffith
+  phone: 201-302-5165
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Paris, France
+  email: Simon.Santiago@example.com
+  id: 858
+  name: Simon Santiago
+  phone: 471-290-4198
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Sameer.Watkins@example.com
+  id: 859
+  name: Sameer Watkins
+  phone: 982-313-9358
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Anton.Hartman@example.com
+  id: 860
+  name: Anton Hartman
+  phone: 708-986-9234
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Mya.Delgado@example.com
+  id: 863
+  name: Mya Delgado
+  phone: 760-931-9269
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Bibi.Weaver@example.com
+  id: 869
+  name: Bibi Weaver
+  phone: 956-787-2725
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Tomasz.Baker@example.com
+  id: 872
+  name: Tomasz Baker
+  phone: 778-642-7614
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Montreal, Canada
+  email: Alasdair.Mckinney@example.com
+  id: 874
+  name: Alasdair Mckinney
+  phone: 608-300-8331
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Serena.Lewis@example.com
+  id: 876
+  name: Serena Lewis
+  phone: 730-187-7131
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Cordelia.Serrano@example.com
+  id: 891
+  name: Cordelia Serrano
+  phone: 950-319-1013
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Sydney.Pratt@example.com
+  id: 892
+  name: Sydney Pratt
+  phone: 297-838-1084
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Benjamin.Riddle@example.com
+  id: 893
+  name: Benjamin Riddle
+  phone: 835-645-8652
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Alana.Koch@example.com
+  id: 898
+  name: Alana Koch
+  phone: 576-828-7913
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Paris, France
+  email: Martin.Perry@example.com
+  id: 904
+  name: Martin Perry
+  phone: 586-420-6418
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: London, United Kingdom
+  email: Cory.Case@example.com
+  id: 905
+  name: Cory Case
+  phone: 406-161-3681
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Astrid.Miles@example.com
+  id: 906
+  name: Astrid Miles
+  phone: 473-411-8478
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Tyler.Vasquez@example.com
+  id: 909
+  name: Tyler Vasquez
+  phone: 899-668-7177
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Toronto, Canada
+  email: Carol.Russo@example.com
+  id: 917
+  name: Carol Russo
+  phone: 192-156-9508
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: William.Franco@example.com
+  id: 918
+  name: William Franco
+  phone: 196-468-3312
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Hollie.Escobar@example.com
+  id: 921
+  name: Hollie Escobar
+  phone: 978-312-6279
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Luisa.Haley@example.com
+  id: 922
+  name: Luisa Haley
+  phone: 916-879-3164
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Russell.Long@example.com
+  id: 923
+  name: Russell Long
+  phone: 399-959-7203
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Lacie.Mayer@example.com
+  id: 946
+  name: Lacie Mayer
+  phone: 412-562-8215
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Sufyaan.Villanueva@example.com
+  id: 949
+  name: Sufyaan Villanueva
+  phone: 882-282-1419
+- Android: 0
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Humaira.Quinn@example.com
+  id: 952
+  name: Humaira Quinn
+  phone: 623-887-1255
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Zaynab.Davila@example.com
+  id: 953
+  name: Zaynab Davila
+  phone: 767-906-5124
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: Barcelona, Spain
+  email: Isobella.Gilbert@example.com
+  id: 962
+  name: Isobella Gilbert
+  phone: 717-961-9368
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Emilio.Stevenson@example.com
+  id: 967
+  name: Emilio Stevenson
+  phone: 293-399-2353
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Layla.Roth@example.com
+  id: 969
+  name: Layla Roth
+  phone: 812-207-8855
+- Android: 1
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Zachary.Rubio@example.com
+  id: 975
+  name: Zachary Rubio
+  phone: 971-477-1542
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Barcelona, Spain
+  email: Anita.Skinner@example.com
+  id: 977
+  name: Anita Skinner
+  phone: 885-134-1740
+- Android: 1
+  Desktop: 0
+  Iphone: 0
+  city: Toronto, Canada
+  email: Kacie.Lester@example.com
+  id: 980
+  name: Kacie Lester
+  phone: 673-651-6332
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Myles.Sharpe@example.com
+  id: 982
+  name: Myles Sharpe
+  phone: 420-682-4722
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Nicola.Davenport@example.com
+  id: 983
+  name: Nicola Davenport
+  phone: 335-679-5225
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: London, United Kingdom
+  email: Lloyd.Robbins@example.com
+  id: 985
+  name: Lloyd Robbins
+  phone: 603-494-3648
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Paris, France
+  email: Caitlyn.Lawson@example.com
+  id: 987
+  name: Caitlyn Lawson
+  phone: 470-723-2187
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Toronto, Canada
+  email: Marion.Webster@example.com
+  id: 991
+  name: Marion Webster
+  phone: 169-218-9165
+- Android: 0
+  Desktop: 1
+  Iphone: 1
+  city: Montreal, Canada
+  email: Jayson.Sutton@example.com
+  id: 993
+  name: Jayson Sutton
+  phone: 289-775-9088
+- Android: 1
+  Desktop: 1
+  Iphone: 0
+  city: London, United Kingdom
+  email: Inaaya.Bruce@example.com
+  id: 994
+  name: Inaaya Bruce
+  phone: 780-773-8755
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Montreal, Canada
+  email: Raja.Reeves@example.com
+  id: 995
+  name: Raja Reeves
+  phone: 990-569-7356
+- Android: 1
+  Desktop: 0
+  Iphone: 1
+  city: Toronto, Canada
+  email: Maria.Stephens@example.com
+  id: 996
+  name: Maria Stephens
+  phone: 798-578-4631
+- Android: 0
+  Desktop: 0
+  Iphone: 1
+  city: London, United Kingdom
+  email: Fatimah.Johns@example.com
+  id: 998
+  name: Fatimah Johns
+  phone: 520-433-7411

@@ -1,0 +1,66 @@
+transaction_id,phone,store,item,price,price_per_item,quantity
+1006,634-813-9351,BestChoice Buy,Flixnet,11.0,11.0,1
+1006,634-813-9351,BestChoice Buy,Colgatex,6.0,3.0,2
+1010,444-295-8051,Trader Tales,Flixnet,11.0,11.0,1
+1010,444-295-8051,Trader Tales,RedCow,4.0,4.0,1
+1010,444-295-8051,Trader Tales,Popsi,4.0,4.0,1
+1011,520-305-7264,Trader Tales,Colgatex,3.0,3.0,1
+1011,520-305-7264,Trader Tales,Popsi,4.0,4.0,1
+1011,520-305-7264,Trader Tales,Flixnet,11.0,11.0,1
+1012,891-887-3513,PetPals Mart,Colgatex,2.0,2.0,1
+1012,891-887-3513,PetPals Mart,Flixnet,30.0,10.0,3
+1013,114-507-5478,BestChoice Buy,RedCow,4.0,4.0,1
+1013,114-507-5478,BestChoice Buy,Colgatex,3.0,3.0,1
+1013,114-507-5478,BestChoice Buy,Dovee,4.0,2.0,2
+1016,441-847-1955,Urban Outfitters Loft,Popsi,9.0,3.0,3
+1016,441-847-1955,Urban Outfitters Loft,Dovee,3.0,1.0,3
+1016,441-847-1955,Urban Outfitters Loft,Flixnet,10.0,10.0,1
+1021,563-494-9026,Urban Outfitters Loft,Colgatex,2.0,2.0,1
+1032,915-320-3214,Urban Outfitters Loft,Colgatex,2.0,2.0,1
+1034,731-730-2543,Urban Outfitters Loft,Colgatex,2.0,2.0,1
+1036,891-887-3513,PetPals Mart,RedCow,3.0,3.0,1
+1038,742-395-8995,Urban Outfitters Loft,Flixnet,30.0,10.0,3
+1038,742-395-8995,Urban Outfitters Loft,Popsi,3.0,3.0,1
+1038,742-395-8995,Urban Outfitters Loft,GatorBoost,3.0,3.0,1
+1040,220-102-3684,BestChoice Buy,Krafty Cheddar,10.0,5.0,2
+1053,561-761-7547,Trader Tales,Oreoz,4.0,4.0,1
+1053,561-761-7547,Trader Tales,Colgatex,3.0,3.0,1
+1059,516-779-4464,Trader Tales,Dovee,4.0,2.0,2
+1062,139-396-1336,PetPals Mart,Dovee,3.0,1.0,3
+1062,139-396-1336,PetPals Mart,Popsi,6.0,3.0,2
+1062,139-396-1336,PetPals Mart,Colgatex,4.0,2.0,2
+1070,111-862-3502,PetPals Mart,RedCow,6.0,3.0,2
+1072,124-533-2523,SparkMart,Colgatex,12.0,4.0,3
+1072,124-533-2523,SparkMart,Dovee,9.0,3.0,3
+1075,946-447-2454,PetPals Mart,RedCow,6.0,3.0,2
+1075,946-447-2454,PetPals Mart,KittyKat,2.0,2.0,1
+1077,958-724-3846,PetPals Mart,Dovee,1.0,1.0,1
+1077,958-724-3846,PetPals Mart,Flixnet,10.0,10.0,1
+1077,958-724-3846,PetPals Mart,Popsi,3.0,3.0,1
+1079,549-515-6738,SparkMart,GatorBoost,5.0,5.0,1
+1079,549-515-6738,SparkMart,Krafty Cheddar,6.0,6.0,1
+1079,549-515-6738,SparkMart,Popsi,15.0,5.0,3
+1081,390-911-6534,BestChoice Buy,Dovee,6.0,2.0,3
+1081,390-911-6534,BestChoice Buy,KittyKat,9.0,3.0,3
+1081,390-911-6534,BestChoice Buy,Popsi,8.0,4.0,2
+1084,530-539-9474,Urban Outfitters Loft,RedCow,6.0,3.0,2
+1084,530-539-9474,Urban Outfitters Loft,KittyKat,2.0,2.0,1
+1089,228-202-6360,Urban Outfitters Loft,Popsi,6.0,3.0,2
+1089,228-202-6360,Urban Outfitters Loft,Dovee,1.0,1.0,1
+1091,742-395-8995,Trader Tales,GatorBoost,4.0,4.0,1
+1094,237-295-4490,Trader Tales,Dovee,4.0,2.0,2
+1094,237-295-4490,Trader Tales,Oreoz,12.0,4.0,3
+1095,441-847-1955,BestChoice Buy,Dovee,4.0,2.0,2
+1096,507-883-4629,Urban Outfitters Loft,Flixnet,10.0,10.0,1
+1104,795-682-8733,Urban Outfitters Loft,RedCow,6.0,3.0,2
+1104,795-682-8733,Urban Outfitters Loft,KittyKat,4.0,2.0,2
+1104,795-682-8733,Urban Outfitters Loft,Dovee,3.0,1.0,3
+1112,500-251-7080,Trader Tales,Dovee,2.0,2.0,1
+1117,629-807-5687,PetPals Mart,Dovee,1.0,1.0,1
+1117,629-807-5687,PetPals Mart,Oreoz,6.0,3.0,2
+1120,728-796-4352,BestChoice Buy,Flixnet,33.0,11.0,3
+1120,728-796-4352,BestChoice Buy,KittyKat,3.0,3.0,1
+1130,530-539-9474,BestChoice Buy,KittyKat,6.0,3.0,2
+1130,530-539-9474,BestChoice Buy,Colgatex,9.0,3.0,3
+1130,530-539-9474,BestChoice Buy,Krafty Cheddar,5.0,5.0,1
+1133,699-966-4749,BestChoice Buy,Dovee,2.0,2.0,1
