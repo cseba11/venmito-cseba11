@@ -1,5 +1,3 @@
-
-readme_content = """
 ## **README: Venmito Data Engineering Project**  
 **Author:** Carlos Hernandez Alvarado  
 **Email:** [carlos.hernandez43@upr.edu](mailto:carlos.hernandez43@upr.edu)  
